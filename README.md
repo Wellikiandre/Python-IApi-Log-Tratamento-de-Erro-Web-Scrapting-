@@ -8,7 +8,7 @@
   <!-- <a href="https://www.linkedin.com/in/wellikiandre/">LinkdeIn</a> -->
 </div>
 
-<h3 align="center">Projeto Python para : API, Web Scrapting, Log, Tratamento de Erro, Ingestão e Tratamento de Dado</h1>
+<h3 align="center">Python para : API, Web Scrapting, Log, Tratamento de Erro, Ingestão e Tratamento de Dado</h1>
 
 <p align="center">
 
