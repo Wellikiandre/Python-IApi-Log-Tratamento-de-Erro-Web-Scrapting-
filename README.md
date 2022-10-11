@@ -42,7 +42,7 @@ Tenha certeza de tenha instalado [Git](https://git-scm.com) e [Python](https://w
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Wellikiandre/ColetaDeDadosLoteria.git
+$ git clone https://github.com/Wellikiandre/Python-IApi-Log-Tratamento-de-Erro-Web-Scrapting-.git
 
 
 # Install dependencies
